@@ -137,3 +137,5 @@ Malignancy probability: 87.3 %
   howpublished = {\url{https://github.com/howardtuan/thyroid-marker-cad}}
 }
 ```
+# 9. 授權
+本專案採 MIT License，詳見 `LICENSE`。
